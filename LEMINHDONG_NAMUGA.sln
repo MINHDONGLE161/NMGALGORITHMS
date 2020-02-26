@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LEMINHDONG_NAMUGA", "NAMUGA_TEST1\LEMINHDONG_NAMUGA.csproj", "{9C5F670F-2FD4-4557-9BA0-C4612F419C97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C5F670F-2FD4-4557-9BA0-C4612F419C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C5F670F-2FD4-4557-9BA0-C4612F419C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C5F670F-2FD4-4557-9BA0-C4612F419C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C5F670F-2FD4-4557-9BA0-C4612F419C97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92508D9F-FD6D-4993-BDBE-7B8FD188F135}
+	EndGlobalSection
+EndGlobal
